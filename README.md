@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Safal Thapa!  
+🎓 Master’s Student in Data Science & Engineering  
+💡 Aspiring Machine Learning & AI Engineer  
+🌍 New York, USA  
+📫 saphalthapa17@gmail.com 
 
-<!--
-**SafalThapa17/safalthapa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me  
+I’m currently pursuing my Master’s in Data Engineering at City College of New York, CUNY, where I’m passionate about building scalable data pipelines and applying machine learning to solve real-world problems especially in the field of Art conservation and Agrotech. I enjoy exploring the intersection of data engineering, AI, and social well-being.  
 
-Here are some ideas to get you started:
+🔬 Interested in: Machine Learning, Deep Learning, Data Engineering, NLP, Cloud Computing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Languages & Tools: Python, SQL, R, TensorFlow, PyTorch, Spark  
+
+🤖 Currently working on: Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning  
+
+🌱 Learning: Advanced ML algorithms, MLOps, Generative AI  
